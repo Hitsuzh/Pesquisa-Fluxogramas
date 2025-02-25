@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.6">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Aluno"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-02-25 04:27:09 "/>
+        <attribute name="created" value="QWx1bm87IERTTjkxNC1NSUNSTzIzLTsgMjAyNS0wMi0yNTsgMDQ6MDY6MjMgOyAyNjgz"/>
+        <attribute name="edited" value="QWx1bm87IERTTjkxNC1NSUNSTzIzLTsgMjAyNS0wMi0yNTsgMDQ6Mjc6MDkgOyAyNjkw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numero" type="Real" array="False" size=""/>
+            <input variable="numero"/>
+            <declare name="numero2" type="Real" array="False" size=""/>
+            <input variable="numero2"/>
+            <declare name="soma" type="Real" array="False" size=""/>
+            <assign variable="soma" expression="numero + numero2"/>
+            <output expression="soma"/>
+        </body>
+    </function>
+</flowgorithm>
