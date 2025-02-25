@@ -84,3 +84,6 @@ Retorne para "i <= Número?"
 - Creately
 - SmartDraw
 - Edraw Max
+
+## Conclusão
+Os fluxogramas são essenciais no desenvolvimento, pois oferecem uma representação visual clara dos processos, facilitando a comunicação e o entendimento entre a equipe. Eles ajudam no planejamento, identificam erros e oportunidades de melhoria, e apoiam a tomada de decisões. Além disso, servem como uma boa documentação para futuras manutenções e novos membros da equipe.  
